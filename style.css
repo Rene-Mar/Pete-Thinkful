@@ -23,7 +23,8 @@ article {
   padding: 50px 0;
 }
 
-.about {text-align: center;}
+.about {
+  padding: 100px;}
 
 article div {
   text-align: center;
